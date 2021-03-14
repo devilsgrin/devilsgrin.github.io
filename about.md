@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Hakkında
 ---
 
-Something about me.
+kendi çapında, ufak tefek araştırmalar yapan, bilmediği çok şey olan 
+ve öğrendiklerini bu blogda yayımlayan bir genç
